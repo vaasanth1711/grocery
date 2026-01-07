@@ -1,7 +1,7 @@
 const http = require('http');
 
 const API_URL = 'localhost:5000';
-
+//hiuhh
 // Product data to add (name, quantity, category)
 const productsToAdd = [
   { name: 'Fresh Tomatoes', qty: 2, cat: 'Vegetables' },
